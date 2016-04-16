@@ -1,4 +1,4 @@
-layout_spectrum: 0.9520463962107897
+name: visualride
 opengraph:
   image: null
   type: null
@@ -9,25 +9,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.2862841570749879
   brandStrength: 0.8384646947961301
-  lightness: 0.4875925707165152
+  rhythmicContrast: 0.5847958878148347
   brandColors:
     - '#171716'
     - '#D6D1CD'
     - '#9A9A9A'
     - '#80421F'
     - '#1D2D8A'
-  rhythmicContrast: 0.5847958878148347
-typography_spectrum: 0.490333
+  lightness: 0.4875925707165152
+typography_spectrum: 0.4688507
 cta:
   bucket: null
   version: null
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: visualride
+layout_spectrum: 1
