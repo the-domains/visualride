@@ -4,7 +4,7 @@
         <description><![CDATA[visualride]]></description>
         <link>https://thegrid.ai/visualride/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 01:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 06:24:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visualride/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Fri, 25 Mar 2016 01:03:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d909ac6d-d498-448e-9684-af02ba1e5e90.png">]]></description>
-            <link>https://thegrid.ai/visualride/2fdbb5e5-811d-4116-8874-a92b8e076b2c/index.html</link>
-            <guid isPermaLink="false">2fdbb5e5-811d-4116-8874-a92b8e076b2c</guid>
-            <pubDate>Fri, 25 Mar 2016 01:27:52 GMT</pubDate>
+            <title><![CDATA[3d render]]></title>
+            <description><![CDATA[<article><h1>3d render</h1><p>The buildings on the left were rendered to match the existing structures on the right</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/171e798e194d5c2f08e76be130cf254e0e1627f0.png"></article>]]></description>
+            <link>https://thegrid.ai/visualride/3d-render/index.html</link>
+            <guid isPermaLink="false">13d22f8c-d4c7-4e2e-9d26-4cea8afc3bd9</guid>
+            <pubDate>Fri, 22 Apr 2016 06:24:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -32,6 +32,13 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa77a2e0-78ac-4c98-ad80-25c2da0667a0.png">]]></description>
             <link>https://thegrid.ai/visualride/b9e91dee-af7d-4463-a375-7a6695b46f0b/index.html</link>
             <guid isPermaLink="false">b9e91dee-af7d-4463-a375-7a6695b46f0b</guid>
+            <pubDate>Fri, 25 Mar 2016 01:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d909ac6d-d498-448e-9684-af02ba1e5e90.png">]]></description>
+            <link>https://thegrid.ai/visualride/2fdbb5e5-811d-4116-8874-a92b8e076b2c/index.html</link>
+            <guid isPermaLink="false">2fdbb5e5-811d-4116-8874-a92b8e076b2c</guid>
             <pubDate>Fri, 25 Mar 2016 01:27:52 GMT</pubDate>
         </item>
     </channel>
